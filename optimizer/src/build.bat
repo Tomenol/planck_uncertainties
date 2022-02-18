@@ -1,0 +1,1 @@
+gcc -m64 --shared 2D_interp.c optimizerv2.c -o optimizerv2.so -I:./

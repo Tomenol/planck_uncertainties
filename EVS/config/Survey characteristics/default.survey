@@ -1,0 +1,8 @@
+DELTA_UNITS 		rho_c
+DELTA				500
+F_SKY 				0.658
+DELTA_Z				0.1
+MF_FORMULA			Tinker
+M_LIM 				4e+14
+Z_MIN 				0.05
+Z_MAX 				1.0
