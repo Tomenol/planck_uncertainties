@@ -6,8 +6,4 @@ Applying other optimization constraints or Monte-Carlo methods could solve this 
 
 # Results
 Applying this algorithm once on the mean Planck 2018 cosmological parameter values with the "plikHM_TTTEEE_lowl_lowE_BAO" data yields the following results :
-![image](https://user-images.githubusercontent.com/54234406/154732203-0e9c797b-3d8e-40ab-8765-1c9dcd956cac.png)
-![image](https://user-images.githubusercontent.com/54234406/154732231-157dd42c-7df2-4374-95a7-7bd387ab628b.png)
-![image](https://user-images.githubusercontent.com/54234406/154732234-59cecdb3-0922-4fb6-978d-ddee51c474d2.png)
-![image](https://user-images.githubusercontent.com/54234406/154732241-04771446-3691-4c34-8dc5-64d2cb0d14e3.png)
-![image](https://user-images.githubusercontent.com/54234406/154732252-56219a97-270d-47d1-86f6-f9b7ff3c2ca7.png)
+![image](https://user-images.githubusercontent.com/54234406/154732869-a92f3df4-0270-4575-941a-d6baf92343f6.png)
