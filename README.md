@@ -7,6 +7,6 @@ Applying other optimization constraints or Monte-Carlo methods could solve this 
 # Results
 Applying this algorithm once on the mean Planck 2018 cosmological parameter values with the "plikHM_TTTEEE_lowl_lowE_BAO" data yields the following results :
 
-![image](https://user-images.githubusercontent.com/54234406/154732869-a92f3df4-0270-4575-941a-d6baf92343f6.png
+![image](https://user-images.githubusercontent.com/54234406/154732869-a92f3df4-0270-4575-941a-d6baf92343f6.png)
 
 The min/max points show the parameter values for which M_max(z) is minimized/maximized. We can then use those values to estimate the uncertainties of the EVS model 
